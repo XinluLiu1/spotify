@@ -81,7 +81,7 @@ Answer: What drives track popularity within each genre?
 
 - Quantified how features like valence, tempo, or acousticness influence popularity in each genre
 
-- Insight:
+- Insight (list 3 drivers as examples):
 
   - valence strongly boosts popularity in pop and dance pop
     
