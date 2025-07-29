@@ -66,6 +66,16 @@ Identify tracks and artists that are **not yet mainstream** but exhibit **high p
 
 - Rank top tracks and artists to uncover future hits`
 
+**A. Top 10 tracks**
+
+<img width="1471" height="488" alt="image" src="https://github.com/user-attachments/assets/0ebc9d49-732b-49b8-80e2-2fc18e3c2c8b" />
+
+**B. Top 10 artist**
+<img width="739" height="435" alt="image" src="https://github.com/user-attachments/assets/898716eb-062c-4851-9b45-e6464ea9597b" />
+
+
+
+
 ## 4. Popularity Drivers by Genre
 Answer: What drives track popularity within each genre?
 
