@@ -89,10 +89,11 @@ Answer: What drives track popularity within each genre?
     
   - energy strongly boosts popularity in pop and classic
     
-    <img width="472" height="331" alt="image" src="https://github.com/user-attachments/assets/3b70082c-d7eb-4731-93ea-7e50d95f3cc7" />
+    <img width="472" height="472" alt="image" src="https://github.com/user-attachments/assets/3b70082c-d7eb-4731-93ea-7e50d95f3cc7" />
+
   - danceability strongly boosts popularity in house and funk
 
-  <img width="666" height="455" alt="image" src="https://github.com/user-attachments/assets/73d6deee-5494-4e9b-b95e-6b1ae31facb5" />
+  <img width="472" height="472" alt="image" src="https://github.com/user-attachments/assets/73d6deee-5494-4e9b-b95e-6b1ae31facb5" />
  
 
 In metal, lower valence (darker tone) correlates with higher popularity
