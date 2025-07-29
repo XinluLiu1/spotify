@@ -51,7 +51,7 @@ Use a **Random Forest Classifier** to predict a song’s genre based on its audi
 
 - Evaluated with precision, recall, F1-score
 
-- Identified well-performing classes (e.g., comedy, drum-and-bass) and poorly performing ones (e.g., anime, dub) due to feature overlap
+- Identified well-performing classes (e.g., comedy, sleep, rock) and poorly performing ones (e.g., brazil, electronic) due to feature overlap
 <img width="764" height="366" alt="image" src="https://github.com/user-attachments/assets/9c8b8104-6392-4506-815b-469d66b0eed1" />
 
 ## 3. Emerging Track & Artist Discovery
