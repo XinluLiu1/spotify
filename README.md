@@ -9,7 +9,7 @@ This project simulates the responsibilities of a Content Analytics - Music Partn
 
 - Strategic intelligence for partnerships and promotion
 # Dataset Overview
-The dataset includes Spotify tracks with audio features, genre labels, and popularity scores. [Data Source]
+The dataset includes Spotify tracks with audio features, genre labels, and popularity scores. [Kaggle Data Source](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download)
 
 Columns include:
 
