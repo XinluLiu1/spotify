@@ -95,7 +95,19 @@ Answer: What drives track popularity within each genre?
 
     <img width="472" height="331" alt="image" src="https://github.com/user-attachments/assets/5e4e7758-59dc-4014-a7e1-5f713ccff762" />
 
- 
+ # Strategic Takeaways
+- Different genres have unique success drivers; promotional strategies should be tailored accordingly
 
-In metal, lower valence (darker tone) correlates with higher popularity
+- Emerging artist scoring can guide early-stage partnerships
 
+- Audio-based recommendation helps enhance discovery and curation experience
+
+# Tech Stack
+- Python: pandas, sklearn, seaborn, matplotlib
+
+- Models: KNN, Random Forest, Linear Regression
+
+- Visualization: Seaborn, Matplotlib
+
+# 🙋‍♀️ About Me
+I’m a data analyst passionate about turning content signals into strategic music insights. This project was developed to simulate real-world challenges at Spotify’s Music Partnerships team and demonstrate my skills in data storytelling, modeling, and actionable insight generation.
