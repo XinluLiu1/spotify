@@ -84,8 +84,11 @@ Answer: What drives track popularity within each genre?
 - Insight:
 
   - valence strongly boosts popularity in pop and dance pop
+    
     <img width="472" height="331" alt="image" src="https://github.com/user-attachments/assets/fa38e0d5-fde8-47a7-bffd-990369b02383" />
+    
   - energy strongly boosts popularity in pop and classic
+    
     <img width="604" height="455" alt="image" src="https://github.com/user-attachments/assets/3b70082c-d7eb-4731-93ea-7e50d95f3cc7" />
 
 
