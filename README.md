@@ -22,7 +22,7 @@ Columns include:
 
 **A. Popularity Distribution**
 
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/fcf02767-24a8-4d54-8dad-c6d57e7d0b15" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fcf02767-24a8-4d54-8dad-c6d57e7d0b15" />
 
 **B. Genre Distribution**
 
