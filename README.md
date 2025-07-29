@@ -30,7 +30,7 @@ Columns include:
 
 **C. Correlation Heatmap**
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/8b698822-fc7a-4ceb-9bb1-9b284f119fe5" />
+<img width="1014" height="771" alt="image" src="https://github.com/user-attachments/assets/e8c62b33-602d-41c5-b51d-2164840c6b4d" />
 
 
 # Project Highlights
