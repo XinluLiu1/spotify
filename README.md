@@ -42,20 +42,20 @@ Identify tracks and artists that are **not yet mainstream** but exhibit **high p
 - Focus on tracks with mid-range popularity (40–70)
 
 - Construct an emerging score:
-
 `emerging_score = danceability + energy + valence + tempo_norm - loudness_penalty
-Rank top tracks and artists to uncover future hits`
 
-4. 📈 Popularity Drivers by Genre
+- Rank top tracks and artists to uncover future hits`
+
+## 4. Popularity Drivers by Genre
 Answer: What drives track popularity within each genre?
 
-Trained separate linear regression models per genre
+- Trained separate linear regression models per genre
 
-Quantified how features like valence, tempo, or acousticness influence popularity in each genre
+- Quantified how features like valence, tempo, or acousticness influence popularity in each genre
 
-Insight:
+- Insight:
 
-valence strongly boosts popularity in pop and dance pop
+-   valence strongly boosts popularity in pop and dance pop
 
 In metal, lower valence (darker tone) correlates with higher popularity
 
