@@ -55,7 +55,7 @@ Answer: What drives track popularity within each genre?
 
 - Insight:
 
--   valence strongly boosts popularity in pop and dance pop
+  - valence strongly boosts popularity in pop and dance pop
 
 In metal, lower valence (darker tone) correlates with higher popularity
 
