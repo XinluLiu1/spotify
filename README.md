@@ -22,11 +22,11 @@ Columns include:
 
 **A. Popularity Distribution**
 
-<img width="709" height="536" alt="image" src="https://github.com/user-attachments/assets/6720d332-e742-42df-9550-39f9127b435f" />
+<img width="1023" height="701" alt="image" src="https://github.com/user-attachments/assets/fcf02767-24a8-4d54-8dad-c6d57e7d0b15" />
 
 **B. Genre Distribution**
 
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/cace4ff8-6497-43a0-a90e-d76c0d2c1b55" />
+<img width="606" height="436" alt="image" src="https://github.com/user-attachments/assets/cc0f59ab-069d-4b11-ac67-0892d8760b26" />
 
 **C. Correlation Heatmap**
 
