@@ -89,7 +89,7 @@ Answer: What drives track popularity within each genre?
     
   - energy strongly boosts popularity in pop and classic
     
-    <img width="604" height="455" alt="image" src="https://github.com/user-attachments/assets/3b70082c-d7eb-4731-93ea-7e50d95f3cc7" />
+    <img width="472" height="331" alt="image" src="https://github.com/user-attachments/assets/3b70082c-d7eb-4731-93ea-7e50d95f3cc7" />
 
 
 In metal, lower valence (darker tone) correlates with higher popularity
