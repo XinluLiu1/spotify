@@ -52,7 +52,9 @@ Use a **Random Forest Classifier** to predict a song’s genre based on its audi
 - Evaluated with precision, recall, F1-score
 
 - Identified well-performing classes (e.g., comedy, sleep, rock) and poorly performing ones (e.g., brazil, electronic) due to feature overlap
-<img width="764" height="366" alt="image" src="https://github.com/user-attachments/assets/9c8b8104-6392-4506-815b-469d66b0eed1" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/9c8b8104-6392-4506-815b-469d66b0eed1" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/f5c22bae-638f-4035-99b6-93c59bb7d493" />
+
 
 ## 3. Emerging Track & Artist Discovery
 Identify tracks and artists that are **not yet mainstream** but exhibit **high potential** based on audio characteristics.
