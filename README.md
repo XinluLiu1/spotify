@@ -17,7 +17,7 @@ Columns include:
 
 - Audio features: danceability, energy, loudness, speechiness, acousticness, instrumentalness, liveness, valence, tempo，explicit, duration_ms, mode, etc.
 
-<img width="1257" height="385" alt="image" src="https://github.com/user-attachments/assets/30e204b1-51fa-4964-8157-31b691ba7db9" />
+<img width="1257" height="385" alt="image" src="https://github.com/user-attachments/assets/30e204b1-51fa-4964-8157-31b691ba7db9" width="300" />
 
 
 **A. Popularity Distribution**
