@@ -64,7 +64,7 @@ Identify tracks and artists that are **not yet mainstream** but exhibit **high p
 - Construct an emerging score:
 `emerging_score = danceability + energy + valence + tempo_norm - loudness_penalty`
 
-* Although most individual audio features show weak linear correlation with track popularity, our analysis suggests that composite patterns—such as high danceability, energy, and valence—still capture the common traits of mainstream hits. The emerging score is designed as a heuristic to surface tracks with similar sonic profiles, enabling Spotify to spot early-stage potential before they become mainstream.
+_*Although most individual audio features show weak linear correlation with track popularity, our analysis suggests that composite patterns—such as high danceability, energy, and valence—still capture the common traits of mainstream hits. The emerging score is designed as a heuristic to surface tracks with similar sonic profiles, enabling Spotify to spot early-stage potential before they become mainstream._
 
 - Rank top tracks and artists to uncover future hits`
 
