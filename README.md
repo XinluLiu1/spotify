@@ -8,3 +8,11 @@ This project simulates the responsibilities of a Content Analytics - Music Partn
 - Predictive insights into artist and genre performance
 
 - Strategic intelligence for partnerships and promotion
+# Dataset Overview
+The dataset includes Spotify tracks with audio features, genre labels, and popularity scores. [Data Source]
+
+Columns include:
+
+- track_name, main_artist, track_genre, popularity
+
+- Audio features: danceability, energy, loudness, speechiness, acousticness, instrumentalness, liveness, valence, tempo，explicit, duration_ms, mode, etc.
