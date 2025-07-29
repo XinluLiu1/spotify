@@ -16,7 +16,8 @@ Columns include:
 - track_name, main_artist, track_genre, popularity
 
 - Audio features: danceability, energy, loudness, speechiness, acousticness, instrumentalness, liveness, valence, tempo，explicit, duration_ms, mode, etc.
-<img width="896" height="218" alt="image" src="https://github.com/user-attachments/assets/64f68699-020a-4543-8f1d-63e44236738f" />
+<img width="1305" height="293" alt="image" src="https://github.com/user-attachments/assets/02ae69d0-fff7-4c69-9d0a-41593fc0058c" />
+
 
 # Project Highlights
 ## 1. Audio-Based Recommendation System
@@ -27,7 +28,7 @@ Build a **content-based recommender** that suggests songs based on user-preferre
 - Output: Top 5 most similar tracks using KNN + cosine similarity
 
 - Example: Recommend high energy, medium speechiness, low acousticness
-
+<img width="896" height="218" alt="image" src="https://github.com/user-attachments/assets/64f68699-020a-4543-8f1d-63e44236738f" />
 
 ## 2. Genre Classification Using Audio Features
 Use a **Random Forest Classifier** to predict a song’s genre based on its audio signature.
