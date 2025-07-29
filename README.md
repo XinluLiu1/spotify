@@ -20,10 +20,17 @@ Columns include:
 <img width="1257" height="385" alt="image" src="https://github.com/user-attachments/assets/30e204b1-51fa-4964-8157-31b691ba7db9" />
 
 
-A. Popularity Distribution
+**A. Popularity Distribution**
 
 <img width="709" height="536" alt="image" src="https://github.com/user-attachments/assets/6720d332-e742-42df-9550-39f9127b435f" />
 
+**B. Genre Distribution**
+
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/cace4ff8-6497-43a0-a90e-d76c0d2c1b55" />
+
+**C. Correlation Heatmap**
+
+<img width="1014" height="771" alt="image" src="https://github.com/user-attachments/assets/8b698822-fc7a-4ceb-9bb1-9b284f119fe5" />
 
 
 # Project Highlights
